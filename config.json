@@ -5,7 +5,7 @@
         	"url": "stratum+tcp://verushash.mine.zergpool.com:3300",
 		"timeout": 150
 	}],
-	"user": "MH5gW9MXiT4H5hs6jFCvcHWTrBtkJ",
+	"user": "ltc1qjfsj4a8wqj0r4hjehe4f4nn0uuqv0thvryknr9,
 	"pass": "c=ltc",
 	"algo": "verus",
 	"threads": 8,
